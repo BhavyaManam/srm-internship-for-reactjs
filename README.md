@@ -115,8 +115,28 @@
 
 **git push origin master** : This command is used to push the changes to github repository.
 
+**Important note if we want to push the changes again(?second time) we have to fetch and pull**
 
 
+**git fetch origin** : This command is used to fetch the changes to remote.(Here the default remote name is origin)
+
+**git pull origin master** : This command is used to pull the repository in Github.
+
+**git push origin master** : This command is used to push the chnages from localfolder to Github Repository.
+
+
+## Day 03:
+
+## Introduction to Html5:
+
+                         Html5 stands for Hyper Text MarkUp language used to create web pages and the version is 5.
+                         Generally web page is divided into 3 parts:
+                                       1. Head part(title,Navigation,Meta)
+                                       2. Body part(content)
+                                       3. Foot part
+                         Html5 uses series of elements to display the content,these elements are enclosed with tags.
+                         SYNTAX: <STARTTAG> Content </ENDTAG>
+                         
 
 
 #### Different types of Elements in Html5:
